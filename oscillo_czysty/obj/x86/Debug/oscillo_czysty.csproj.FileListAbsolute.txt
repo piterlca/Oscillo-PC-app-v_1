@@ -1,0 +1,7 @@
+C:\Users\Piotr\workspace\oscillo_czysty\oscillo_czysty\bin\Debug\oscillo_czysty.exe
+C:\Users\Piotr\workspace\oscillo_czysty\oscillo_czysty\bin\Debug\oscillo_czysty.pdb
+C:\Users\Piotr\workspace\oscillo_czysty\oscillo_czysty\obj\x86\Debug\oscillo_czysty.Form1.resources
+C:\Users\Piotr\workspace\oscillo_czysty\oscillo_czysty\obj\x86\Debug\oscillo_czysty.Properties.Resources.resources
+C:\Users\Piotr\workspace\oscillo_czysty\oscillo_czysty\obj\x86\Debug\oscillo_czysty.csproj.GenerateResource.Cache
+C:\Users\Piotr\workspace\oscillo_czysty\oscillo_czysty\obj\x86\Debug\oscillo_czysty.exe
+C:\Users\Piotr\workspace\oscillo_czysty\oscillo_czysty\obj\x86\Debug\oscillo_czysty.pdb
